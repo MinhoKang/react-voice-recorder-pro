@@ -8,6 +8,12 @@
 
 React Voice Recorder Pro is an all-in-one hook-based library for implementing voice recording functionality in React applications. It leverages Web Audio API and MediaRecorder API to provide high-quality voice recording, real-time audio level measurement, and comprehensive browser compatibility.
 
+Note: This library has no extra audio dependencies. It is implemented purely with standard Web APIs (MediaRecorder, Web Audio) without third‑party audio libraries.
+
+## 🎮 Live Demo
+
+Try the demo app here: [react-voice-recorder-pro-demo](https://github.com/MinhoKang/react-voice-recorder-pro-demo)
+
 ## ✨ Key Features
 
 - 🎯 **All-in-one Hook**: All functionality provided through `useVoiceRecorder`
@@ -19,6 +25,7 @@ React Voice Recorder Pro is an all-in-one hook-based library for implementing vo
 - 🌐 **Browser Compatibility**: Chrome, Firefox, Safari, Edge support
 - 📦 **Lightweight**: Optimized bundle size
 - 🔧 **Flexible Configuration**: Various options and customization support
+- 🧩 **No extra deps**: Built purely on Web APIs (MediaRecorder, Web Audio) — no third‑party audio libraries
 
 ## 🚀 Quick Start
 
@@ -342,10 +349,7 @@ This library was built with the help of the following open source projects:
 
 ## 📞 Support
 
-- 📧 Email: support@yourdomain.com
-- 💬 Discord: [Server Link]
-- 📱 Twitter: [@yourusername]
-
+- 📧 Email: rkdalsgh0106@naver.com
 ---
 
 Build amazing voice recording apps with **React Voice Recorder Pro**! 🎤✨
