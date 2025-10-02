@@ -1,6 +1,6 @@
 {
   "name": "react-voice-recorder-pro",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A powerful React hook-based voice recording library with real-time audio visualization and comprehensive browser support",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
@@ -52,10 +52,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MinhoKang/react-voice-recorder-pro-demo"
+    "url": "https://github.com/MinhoKang/react-voice-recorder-pro"
   },
   "bugs": {
-    "url": "https://github.com/MinhoKang/react-voice-recorder-pro-demo/issues"
+    "url": "https://github.com/MinhoKang/react-voice-recorder-pro/issues"
   },
-  "homepage": "https://github.com/MinhoKang/react-voice-recorder-pro-demo"
+  "homepage": "https://github.com/MinhoKang/react-voice-recorder-pro"
 }
