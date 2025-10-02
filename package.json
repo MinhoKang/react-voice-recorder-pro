@@ -1,6 +1,6 @@
 {
   "name": "react-voice-recorder-pro",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A powerful React hook-based voice recording library with real-time audio visualization and comprehensive browser support",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
